@@ -1,0 +1,9 @@
+{
+    "name": "com.github.napoli28.rendertotexturerenderer",
+    "version": "1.0.0",
+    "displayName": "RenderToTextureRenderer",
+    "description": "A renderer feature for render a global render texture",
+    "unity": "2022",
+    "dependencies": {
+   }
+}
