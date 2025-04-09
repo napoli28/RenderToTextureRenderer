@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "RenderToTextureRenderer",
     "description": "A renderer feature for render a global render texture",
-    "unity": "2022",
+    "unity": "2022.2",
     "dependencies": {
    }
 }
