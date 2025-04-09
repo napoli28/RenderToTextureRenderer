@@ -5,5 +5,9 @@
     "description": "A renderer feature for render a global render texture",
     "unity": "2022.2",
     "dependencies": {
-   }
+   },
+   "author": {
+    "name": "napoli28",
+    "url": "https://github.com/napoli28"
+  }
 }
