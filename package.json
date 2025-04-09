@@ -1,5 +1,5 @@
 {
-    "name": "com.github.napoli28.rendertotexturerenderer",
+    "name": "com.github.napoli28.render-to-texture-renderer",
     "version": "1.0.0",
     "displayName": "Render To Texture Renderer",
     "description": "A renderer feature for render a global render texture",
